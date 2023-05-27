@@ -9,7 +9,7 @@ class Math:
             return n * Math.fact(n-1)
 
 
-n = 5
+n = 10
 factorial = Math.fact(n)
 print(factorial)
 
